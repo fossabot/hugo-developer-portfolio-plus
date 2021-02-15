@@ -1,13 +1,13 @@
-name = "Developer Portfolio"
+name = "Developer Portfolio Plus"
 license = "MIT"
-licenselink = "https://github.com/samrobbins85/hugo-developer-portfolio/blob/master/LICENSE"
-description = "A Portfolio website designed for developers"
-homepage = "https://github.com/samrobbins85/hugo-developer-portfolio"
+licenselink = "https://github.com/bmyjacks/hugo-developer-portfolio-plus/blob/master/LICENSE"
+description = "The enhanced edition of developer portfolio"
+homepage = "https://github.com/bmyjacks/hugo-developer-portfolio-plus"
 tags = ["portfolio", "developer", "responsive","uikit"]
 features = ["uikit", "responsive", "features"]
 min_version = "0.54.0"
 
 [author]
-    name = "Sam Robbins"
-    homepage = "https://samrobbins.uk/"
+    name = "bmyjacks"
+    homepage = "https://www.bmyjacks.io"
 
