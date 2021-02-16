@@ -1,4 +1,6 @@
 # Developer Portfolio Plus
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbmyjacks%2Fhugo-developer-portfolio-plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbmyjacks%2Fhugo-developer-portfolio-plus?ref=badge_shield)
+
 ## Features
 
 - Responsive Design
@@ -335,3 +337,7 @@ url = "https://www.mozilla.org/en-GB/firefox/"
 ```
 
 The [[tech]] item can be repeated as many times as you desire.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbmyjacks%2Fhugo-developer-portfolio-plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbmyjacks%2Fhugo-developer-portfolio-plus?ref=badge_large)
